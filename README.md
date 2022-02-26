@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @thecoderhaven
+- 👀 I’m interested in practically anything to do with technology and mathematics
+- 🌱 I’m currently learning the fundamentals of computer science as well as programming
+- 💞️ I’m looking to collaborate on fun, exciting projects 
+- 📫 You can reach me through my email, thecoderhaven@gmail.com
+- To see some of my articles on tech-related topics, feel free to visit medium.com/thecoderhaven
